@@ -1,0 +1,15 @@
+/*
+Theme Name: Rambo-child
+Theme URI: https://github.com/onetoughcookie226/rambo_child_theme
+Description: Child theme for Rambo
+Author: Onethoughcookie
+Author URI:
+Template: Rambo
+version: 1.5.4
+ */
+
+@inport "../rambo/style.css";
+
+.navbarcolor {
+	color: #050521;
+}
